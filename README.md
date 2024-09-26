@@ -1,11 +1,15 @@
 # Learn-MMD
+It’s a personal interest of mine to explore and learn how to create MMD using Blender, with the aim of building on this knowledge in the future.
+เป็นความสนใจของตนเองที่อยากจะลองศึกษาและเรียนของวิธีการทำ MMD ของโปรแกรม Blender เพื่อนำไปต่อยอดในอนาคต
 
 # Eng
-I tried learning how to create MMD using Blender from YouTube. The inspiration that prompted me to start was this video [by qubodupDev](https://www.youtube.com/watch?v=Fuqg5mBI2jo).
+I tried learning how to create MMD using Blender from a YouTube video, and the inspiration that got me started was this clip [by qubodupDev](https://www.youtube.com/watch?v=Fuqg5mBI2jo).
 
-After that, I searched for another tutorial on MMD from qubodupDev, which you can find [here](https://www.youtube.com/watch?v=1xUPmWWDdfw).
+After that, I searched for another MMD tutorial from qubodupDev, which you can find [here](https://www.youtube.com/watch?v=1xUPmWWDdfw).
 
-Finally, I brought in the Homyu model to practice with [from this source](https://3d.nicovideo.jp/works/td87715), which is also a creation by qubodupDev.
+Finally, I used the Homyu model to practice, which I found [from this source](https://3d.nicovideo.jp/works/td87715), created by qubodupDev.
+
+I also utilized the Blender add-on [blender_mmd_tools](https://github.com/powroupi/blender_mmd_tools), which was developed by powroupi.
 
 # Thai
 ได้ลองเรียนทำ MMD ด้วย Blender จากคลิปใน YouTube และแรงบันดาลใจที่ทำให้ผมเริ่มเรียนคือคลิปนี้ [โดย qubodupDev](https://www.youtube.com/watch?v=Fuqg5mBI2jo) 
