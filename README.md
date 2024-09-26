@@ -1,6 +1,6 @@
 # Learn-MMD
 
-# En
+# Eng
 I tried learning how to create MMD using Blender from YouTube. The inspiration that prompted me to start was this video [by qubodupDev](https://www.youtube.com/watch?v=Fuqg5mBI2jo).
 
 After that, I searched for another tutorial on MMD from qubodupDev, which you can find [here](https://www.youtube.com/watch?v=1xUPmWWDdfw).
