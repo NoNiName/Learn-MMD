@@ -12,4 +12,6 @@ Finally, I brought in the Homyu model to practice with [from this source](https:
 
 หลังจากนั้นได้ไปหาคลิปสอน MMD จาก qubodupDev อีกหนึ่งคลิป [ที่นี่](https://www.youtube.com/watch?v=1xUPmWWDdfw) 
 
-และในที่สุดก็ได้นำโมเดลของ Homyu มาลองฝึกทำ [จากแหล่งนี้](https://3d.nicovideo.jp/works/td87715) ซึ่งเป็นผลงานจาก qubodupDev 
+และในที่สุดก็ได้นำโมเดลของ Homyu มาลองฝึกทำ [จากแหล่งนี้](https://3d.nicovideo.jp/works/td87715) เป็นผลงานของ qubodupDev 
+
+และใช้ Add-on Blender ของ [blender_mmd_tools](https://github.com/powroupi/blender_mmd_tools) เป็นผลงานของ powroupi
